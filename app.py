@@ -1,4 +1,4 @@
-"""load_dotenv(override=True) hello
+"""load_dotenv(override=True)
 app.py - Flask backend for the HATIM college chatbot.
 
 Endpoints:
